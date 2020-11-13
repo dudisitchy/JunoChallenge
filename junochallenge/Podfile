@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '14.1'
+
+target 'junochallenge' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for junochallenge
+  
+  # Pod for loading
+  pod 'NVActivityIndicatorView'
+  
+  # Pod toast lib
+  pod 'Toast-Swift'
+  
+  # Pod for loading web images lib
+  pod 'SDWebImage'
+  
+  # Pod for textview formatting lib
+  pod 'AttributedTextView'
+
+  target 'junochallengeTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'junochallengeUITests' do
+    # Pods for testing
+  end
+
+end

@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  junochallenge
+
+  Created by Eduardo Maia on 12/11/20.
+  
+*/
+
+"initial_info" = "Faça uma busca para encontrar repositórios no GitHub.";
+"error_toast_message" = "Falha de conexão com a internet! Tente novamente.";
+"user" = "Usuário:";
+"language" = "Linguagem:";
+"created" = "Criado em:";
+"updated" = "Última atualização:";
+"issues" = "Problemas abertos:";
+"watchers" = "Observadores:";
+"license" = "Licença:";
+"description" = "Descrição:";
+"no_entries" = "Nenhum resultado encontrado.";

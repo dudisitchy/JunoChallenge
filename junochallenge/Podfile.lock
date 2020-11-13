@@ -1,0 +1,32 @@
+PODS:
+  - AttributedTextView (1.4.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - AttributedTextView
+  - NVActivityIndicatorView
+  - SDWebImage
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - AttributedTextView
+    - NVActivityIndicatorView
+    - SDWebImage
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  AttributedTextView: 9e01651d96c1af861a9c67c2cc3f94c30320d1c2
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: feade10361bbb7dffeee8ddbdc3a910734ea1f1b
+
+COCOAPODS: 1.8.4
